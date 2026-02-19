@@ -1,10 +1,3 @@
-# Private-Server
-A private server works on your device and helps to make your project online, shareable, and accessible to anyone with a link. It will be online only when your device is on and the server is running.
-
-
-
-
-
 STEP 1: Start local server
 Command:
     node server.js
@@ -15,7 +8,6 @@ Command:
 
 STEP 3: Start auto-tunnel.ps1
 Command :
-    
     .\auto-tunnel.ps1
 
 
